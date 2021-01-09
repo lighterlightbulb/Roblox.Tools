@@ -9,7 +9,7 @@ Roblox.Tools
 ```
 
 ## License
-This is free and enuncumbered software released into the public domain.
+This is free and unencumbered software released into the public domain.
 
 ## Build
 1. Open `Roblox.Tools.sln`
